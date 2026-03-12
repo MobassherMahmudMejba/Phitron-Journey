@@ -7,8 +7,8 @@ int main() {
     cout << "Default precision: " << pi << endl;
 
     // Set precision to 2 decimal places
-    cout << fixed << setprecision(2);
-    cout << "Pi with 2 decimal places: " << pi << endl;
+    cout << fixed << setprecision(2)<< "Pi with 2 decimal places: " << pi << endl;;
+    
 
     // Set precision to 4 decimal places
     cout << setprecision(4);
